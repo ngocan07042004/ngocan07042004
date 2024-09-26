@@ -1,9 +1,9 @@
 # 💫About Me :
 Hello , my name is Nguyen Ngoc An . Currently, I am a 3rd year student, majoring in Information Technology at Saigon University. I am interested in web developer direction: fontend, backend and fullstack.
 # Projects I have participated in:
- #".Website bán đồng hồ đeo tay" dùng thuần html ,css ,javscript
- #."Website bán đồng hồ đeo tay" có cơ sở dữ liệu dùng ngôn ngữ php ,html,css , bootstrap
- #."Ứng dụng desktop quản lí bán đồng hồ đeo tay" xây dựng bằng ngôn ngữ Java
+1 "Website bán đồng hồ đeo tay" dùng thuần html ,css ,javscript
+2 "Website bán đồng hồ đeo tay" có cơ sở dữ liệu dùng ngôn ngữ php ,html,css , bootstrap
+3 "Ứng dụng desktop quản lí bán đồng hồ đeo tay" xây dựng bằng ngôn ngữ Java
 # Projects I am working on:
   1. "Ứng dụng desktop quản lí khách sạn" sử dụng ngôn ngữ Java
 
