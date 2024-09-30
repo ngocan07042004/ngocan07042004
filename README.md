@@ -1,5 +1,5 @@
 # 💫About Me :
-Hello , my name is Nguyen Ngoc An . Currently, I am a 3rd year student, majoring in Information Technology at Saigon University. I am interested in web developer direction: fontend, backend and fullstack.
+Hello , my name is Nguyen Ngoc An . Currently, I am a 3rd year student, majoring in Information Technology at Saigon University. I am interested in web developer direction: frontend, backend and fullstack.
 # Projects I have participated in:
  "Website bán đồng hồ đeo tay" dùng thuần html ,css ,javscript ;
 "Website bán đồng hồ đeo tay" có cơ sở dữ liệu dùng ngôn ngữ php ,html,css , bootstrap;
